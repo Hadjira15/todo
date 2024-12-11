@@ -8,7 +8,7 @@ public class ToDo {
     private String id;
 
     private String title;
-
+    private String var;
     private Boolean completed;
 
     public ToDo(String title, Boolean completed){
